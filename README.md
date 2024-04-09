@@ -1,2 +1,2 @@
 # Nvidia-Batman-More-games-fixes
-*NVIDIA IS NOT REQUIRED* for games that need nvidia Physx.
+*NVIDIA DRIVERS ARE NOT ACTUALLY REQUIRED TO INSTALL PHYSX* for games that need nvidia Physx.
